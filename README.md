@@ -1,3 +1,16 @@
-![ABSOLUTE | NERD](./img/absolute_nerd.svg) ![POWERED BY | CHEWING GUM](./img/powered_by_chewing_gum.svg) ![CONTAINS | TASTY SPAGHETTI CODE](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+# Hey there! :wave:
+  → A coding red panda
+
+  → Lives in Hong Kong :flag_hk:
+
+## Links
+  → [My website](https://funnsam.github.io/)
+
+## Contacts
+  → Discord (`@funnsam`)
+
+  → Email (I won't read though)
+
+  → Find me IRL (good luck)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=funnsam&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
