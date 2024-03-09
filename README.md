@@ -1,7 +1,7 @@
 # Hey there! :wave:
   → A coding red panda
 
-  → Lives in Hong Kong :flag_hk:
+  → Lives in Hong Kong
 
 ## Links
   → [My website](https://funnsam.github.io/)
