@@ -1,0 +1,3 @@
+[submodule "gh-ttt/tictactoe"]
+	path = gh-ttt/tictactoe
+	url = git@github.com:funnsam/tictactoe

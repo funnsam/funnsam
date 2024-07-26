@@ -1,0 +1,10 @@
+name: "tic-tac-toe"
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, "play|")
